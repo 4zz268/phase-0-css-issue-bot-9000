@@ -27,7 +27,7 @@ changing it to valid.
    right?
 2. Open css/style.css in your text editor.
 3. Visit the W3C CSS validator
-   [http://jigsaw.w3.org/css-validator/#validate_by_input](http://jigsaw.w3.org/css-validator/#validate_by_input).
+   [(http://jigsaw.w3.org/css-validator/#validate_by_input).
    If not already selected, click on the tab labeled "By direct input".
 4. Copy the code from css/style.css and paste it into the text area. Click the
    "Check" button.
